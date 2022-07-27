@@ -1,1 +1,1 @@
-[plant-diseases-dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+[Plant-Diseases-Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)

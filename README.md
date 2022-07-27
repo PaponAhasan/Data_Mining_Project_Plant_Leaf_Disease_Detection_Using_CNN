@@ -1,1 +1,1 @@
-# Data_Mining_Project_Plant_Leaf_Disease_Detection_Using_CNN
+[plant-diseases-dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
